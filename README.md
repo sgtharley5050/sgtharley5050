@@ -14,3 +14,7 @@
 🤖 | Developer for [Bothouse](https://bothouse.xyz/)
 
 🤖 | Developer for [Paradisebots](https://paradisebots.net/)
+
+🐦 | Follow me on twitter [Follow](https://twitter.com/Sgtharley50501)
+
+🖥️ | Join my Discord Server [Join](https://discord.com/invite/49GtrEhpwx)
