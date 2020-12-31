@@ -1,9 +1,9 @@
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sgtharley5050&count_private=true)
 
-🤖 | Bot Developer
+🤖 | Bot Developer: Discord.js
 
-🤖 | Web Developer
+🤖 | Web Developer: HTML, EJS, CSS, PHP, JS
 
 🤖 | Owner of DJ Radio [Invite](https://discord.com/oauth2/authorize?client_id=758253727261524010&scope=bot&permissions=58191169)
 
