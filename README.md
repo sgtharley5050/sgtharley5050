@@ -9,10 +9,10 @@
 
 👑 | Owner of Redeemer Memer [Invite](https://discord.com/oauth2/authorize?client_id=780117264455958558&scope=bot&permissions=523329)
 
-💻 | Head Developer for [Bothouse](#)
-
 💻 | Developer for [Paradisebots](https://paradisebots.net/)
 
 🐦 | Follow me on twitter [Follow](https://twitter.com/Sgtharley50501)
 
 🖥️ | Join my Discord Server [Join](https://discord.com/invite/49GtrEhpwx)
+
+👩‍💻 | Admin for Connor's Development [Join](https://discord.gg/ABkPPztHdE)
