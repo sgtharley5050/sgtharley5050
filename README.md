@@ -9,6 +9,10 @@
 
 👑 | Owner of Redeemer Memer [Invite](https://discord.com/oauth2/authorize?client_id=780117264455958558&scope=bot&permissions=523329)
 
+👑 | Owner of Devcord Public [Invite](https://discord.com/oauth2/authorize?client_id=817888132195549215&permissions=388160&scope=bot)
+
+💻 | Developer for Devcord [Join Today](https://discord.com/invite/EjayXqhXdU)
+
 🚨 | Moderator for Infinity Bot List [Infinity Bot List](https://infinitybots.xyz/)
 
 💻 | Head Developer for [Paradisebots](https://paradisebots.net/)
@@ -17,4 +21,4 @@
 
 🖥️ | Join my Discord Server [Join](https://discord.com/invite/49GtrEhpwx)
 
-👩‍💻 | Admin for Connor's Development [Join](https://discord.gg/ABkPPztHdE)
+👩‍💻 | Admin/Developer for Connor's Development [Join](https://discord.gg/ABkPPztHdE)
