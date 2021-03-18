@@ -1,6 +1,3 @@
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sgtharley5050&count_private=true)
-
 🤖 | Bot Developer: Discord.js
 
 💾 | Web Developer: HTML, EJS, CSS, PHP, JS
@@ -20,7 +17,5 @@
 💻 | Head Developer for [Paradisebots](https://paradisebots.net/)
 
 🐦 | Follow me on twitter [Follow](https://twitter.com/Sgtharley50501)
-
-🖥️ | Join my Discord Server [Join](https://discord.com/invite/49GtrEhpwx)
 
 👩‍💻 | Admin/Developer for Connor's Development [Join](https://discord.gg/ABkPPztHdE)
