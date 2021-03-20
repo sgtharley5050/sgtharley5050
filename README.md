@@ -14,4 +14,4 @@
 
 - Admin/Developer for DisDevelopment [Join](https://discord.gg/ABkPPztHdE)
 
-- Follow DisDevelopment [Follow](https://twitter.com/DisDevelopmentt)
+- Follow DisDevelopment on twitter [Follow](https://twitter.com/DisDevelopmentt)
