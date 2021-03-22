@@ -1,10 +1,10 @@
-- Developer for DJ Radio [Invite](https://discord.com/oauth2/authorize?client_id=758253727261524010&scope=bot&permissions=58191169)
-
 - Developer for Redeemer Memer [Invite](https://discord.com/oauth2/authorize?client_id=780117264455958558&scope=bot&permissions=523329)
 
 - Developer for Devcord Public [Invite](https://discord.com/oauth2/authorize?client_id=817888132195549215&permissions=388160&scope=bot)
 
 - Developer for EasterBot [Invite](https://discord.com/api/oauth2/authorize?client_id=810568485905236018&permissions=268954705&scope=bot)
+
+- Developer for EasterBot [Coming Soon]()
 
 - Developer for Devcord [Join Today](https://discord.com/invite/EjayXqhXdU)
 
