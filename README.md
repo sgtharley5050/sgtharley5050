@@ -4,7 +4,7 @@
 
 - Developer for EasterBot [Invite](https://discord.com/api/oauth2/authorize?client_id=810568485905236018&permissions=268954705&scope=bot)
 
-- Developer for ChristmasCountdown [Coming Soon]()
+- Developer for ChristmasCountdown [Coming Soon](#)
 
 - Developer for Devcord [Join Today](https://discord.com/invite/EjayXqhXdU)
 
