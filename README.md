@@ -24,7 +24,7 @@ class sgtharley5050 extends Developer = {
   constructor(coder, options={ life: stressed }) {
     super(coder);
      pronouns: ["he", "him"],
-     working_on: ["EasterBot", "Redeemer Memer", ChristmasCountdown],
+     working_on: ["EasterBot", "Redeemer Memer", "ChristmasCountdown"],
      languages: ["Node.js", "HTML", "CSS", "C#],
      learning: ["VUE"]
    }
