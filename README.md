@@ -12,7 +12,7 @@
 
 - Head Developer for: [Paradisebots](https://paradisebots.net/)
 
-- Head Developer/Admin for DisDevelopment: [Join](https://discord.gg/ABkPPztHdE)
+- Head Developer/Community Manager for DisDevelopment: [Join](https://discord.gg/ABkPPztHdE)
 
 - Follow DisDevelopment on twitter: [Follow](https://twitter.com/DisDevelopmentt)
 
