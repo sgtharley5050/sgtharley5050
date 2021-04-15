@@ -1,6 +1,6 @@
-- Developer for Devcord: [Join Today](https://discord.com/invite/EjayXqhXdU)
+- Owner/Developer for Devcord: [Join Today](https://discord.com/invite/EjayXqhXdU)
 
-- Developer for Devcord Public: [Invite](https://discord.com/oauth2/authorize?client_id=817888132195549215&permissions=388160&scope=bot)
+- Owner/Developer for Devcord Public: [Invite](https://discord.com/oauth2/authorize?client_id=817888132195549215&permissions=388160&scope=bot)
 
 - Developer for EasterBot: [Invite](https://discord.com/api/oauth2/authorize?client_id=810568485905236018&permissions=268954705&scope=bot)
 
