@@ -4,11 +4,9 @@
 
 - Developer for Redeemer Memer: [Invite](https://discord.com/oauth2/authorize?client_id=780117264455958558&scope=bot&permissions=523329)
 
-- Moderator/Trial Developer for Infinity Bot List: [Infinity Bot List](https://infinitybots.xyz/)
-
 - Head Developer for: [Paradisebots](https://paradisebots.net/)
 
-- Head Developer/Community Manager for DisDevelopment: [Join](https://discord.gg/ABkPPztHdE)
+- Co-Owner for DisDevelopment: [Join](https://discord.gg/ABkPPztHdE)
 
 - Follow DisDevelopment on twitter: [Follow](https://twitter.com/DisDevelopmentt)
 
