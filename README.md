@@ -4,9 +4,7 @@
 
 - Head Developer/Owner Redeemer Memer: [Invite](https://discord.com/oauth2/authorize?client_id=780117264455958558&scope=bot&permissions=523329)
 
-- Head Developer for: [Paradisebots](https://paradisebots.net/)
-
-- Co-Owner for DisDevelopment: [Join](https://discord.gg/ABkPPztHdE)
+- Developer for DisDevelopment: [Join](https://discord.gg/ABkPPztHdE)
 
 - Follow DisDevelopment on twitter: [Follow](https://twitter.com/DisDevelopmentt)
 
