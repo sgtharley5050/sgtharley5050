@@ -1,8 +1,8 @@
-- Developer for EasterBot: [Invite](https://discord.com/api/oauth2/authorize?client_id=810568485905236018&permissions=268954705&scope=bot)
+- Head Developer/Owner EasterBot: [Invite](https://discord.com/api/oauth2/authorize?client_id=810568485905236018&permissions=268954705&scope=bot)
 
-- Developer for ChristmasCountdown: [Coming Soon](#)
+- Head Developer/Owner ChristmasCountdown: [Coming Soon](#)
 
-- Developer for Redeemer Memer: [Invite](https://discord.com/oauth2/authorize?client_id=780117264455958558&scope=bot&permissions=523329)
+- Head Developer/Owner Redeemer Memer: [Invite](https://discord.com/oauth2/authorize?client_id=780117264455958558&scope=bot&permissions=523329)
 
 - Head Developer for: [Paradisebots](https://paradisebots.net/)
 
@@ -11,6 +11,9 @@
 - Follow DisDevelopment on twitter: [Follow](https://twitter.com/DisDevelopmentt)
 
 - Developer for WidgetStyle: [Visit](https://www.widgetstyle.xyz/)
+
+- Developer for Dscjobs: [Visit](https://dscjobs.org/)
+
 
 ```JS
 const Developer = require("Developer");
