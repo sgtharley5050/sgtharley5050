@@ -2,7 +2,7 @@
 
 - Head Developer/Owner ChristmasCountdown: [Coming Soon](#)
 
-- Head Developer/Owner Redeemer Memer: [Invite](https://discord.com/oauth2/authorize?client_id=780117264455958558&scope=bot&permissions=523329)
+- Head Developer/Owner El Mod: [Invite](https://discord.com/oauth2/authorize?client_id=857564240784916490&permissions=1559751927&scope=bot)
 
 - Developer for DisDevelopment: [Join](https://discord.gg/ABkPPztHdE)
 
