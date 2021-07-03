@@ -21,13 +21,13 @@ class sgtharley5050 extends Developer = {
   constructor(coder, options={ life: stressed }) {
     super(coder);
      pronouns: ["he", "him"],
-     working_on: ["EasterBot", "Redeemer Memer", "ChristmasCountdown"],
+     working_on: ["EasterBot", "El Mod", "ChristmasCountdown"],
      languages: ["Node.js", "HTML", "CSS", "C#],
      learning: ["VUE"]
    }
   async technologies: {
     projects: {
-      discordbot: ["EasterBot", "Redeemer Memer"],
+      discordbot: ["EasterBot", "El Mod"],
       packages: []
     },
     frontend: {
